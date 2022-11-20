@@ -2,4 +2,4 @@
 
 A Flutter animation practice.
 
-<img src="/pic&gif/takeOff.gif" width="100" />
+<img src="https://github.com/Shawn409631016/flutter_animation/blob/main/pic%26gif/takeOff.gif" width="100" />
